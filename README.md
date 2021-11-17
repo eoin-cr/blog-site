@@ -6,6 +6,9 @@ The script locates any .md articles in the directory it was placed in, converts 
 
 # Styling
 \# [Title]
+
 \### [Date]
+
 \### [Tags] (optional)
+
 \~~~
